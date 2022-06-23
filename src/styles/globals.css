@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply bg-zinc-900 text-zinc-100;
+} 
+
+// CMS - Content Management System
+// Headless CMS (GraphCMS): Painel de ADMIN ( dados fornecidos através de uma API REST ou GraphQL)
