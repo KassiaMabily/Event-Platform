@@ -86,6 +86,7 @@ The following tools were used in the construction of the project:
 -   **[Apollo GraphQL](https://www.apollographql.com/)**
 -   **[GraphCMS](https://graphcms.com/)**
 -   **[GraphQL Code Generator](https://www.graphql-code-generator.com/)**
+-   **[Typescript](https://www.typescriptlang.org/)**
 
 ---
 
