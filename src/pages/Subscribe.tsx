@@ -4,6 +4,8 @@ import { useNavigate } from "react-router-dom";
 import { Logo } from "../components/Logo";
 import { useCreateSubscriberMutation } from "../graphql/generated";
 
+import Mockup from "../assets/code-mockup.png";
+
 
 // https://react-hook-form.com/
 export function Subscribe() {
@@ -72,7 +74,7 @@ export function Subscribe() {
                 </div>
             </div>
 
-            <img src="/src/assets/code-mockup.png" className="mt-10" alt="code" />
+            <img src={Mockup} className="mt-10" alt="code" />
         </div>
     )
 }

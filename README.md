@@ -32,7 +32,7 @@
 
 ## 💻 Overview
 
-### [Demo](event-platform-6gr6llgs6-kassiafraga.vercel.app)
+### [Demo](https://event-platform-fawn.vercel.app/)
 
 <img src="./src/assets/Capa.png" alt="Event Platform" />
 
