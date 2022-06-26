@@ -17,6 +17,8 @@
 
 <h4 align="center">
 	🚧 Development 🚧
+
+    
 </h4>
 
 <p align="center">
@@ -29,6 +31,8 @@
 </p>
 
 ## 💻 Overview
+
+### [Demo](event-platform-6gr6llgs6-kassiafraga.vercel.app)
 
 <img src="./src/assets/Capa.png" alt="Event Platform" />
 
